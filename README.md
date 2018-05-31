@@ -1,15 +1,15 @@
 Propositions store data
 =======================
 
-Source data (dependecy relations collections) needed to generate indexes for web-gui.
+Source data (dependency relations collections) needed to generate indexes for web-gui.
 
 ### Data
 
-* `relations_english.tuples.xz` – English dependency store derrived from [English Gigaword](http://catalog.ldc.upenn.edu/LDC2003T05).
-* `relations_english_gen.tuples.xz` – English dependency store derrived from [English Gigaword](http://catalog.ldc.upenn.edu/LDC2003T05) (generalized).
-* `relations_english.tuples.xz` – Russian dependency store derrived from [RuWac](http://corpus.leeds.ac.uk/ruscorpora.html).
-* `relations_english_gen.tuples.xz` – Russian dependency store derrived from [RuWac](http://corpus.leeds.ac.uk/ruscorpora.html) (generalized).
-* `relations_spanish.tuples.xz` – Spanish dependency store derrived from [Spanish Gigaword](http://catalog.ldc.upenn.edu/LDC2011T12).
+* `relations_english.tuples.xz` – English dependency store derived from [English Gigaword](http://catalog.ldc.upenn.edu/LDC2003T05).
+* `relations_english_gen.tuples.xz` – English dependency store derived from [English Gigaword](http://catalog.ldc.upenn.edu/LDC2003T05) (generalized).
+* `relations_english.tuples.xz` – Russian dependency store derived from [RuWac](http://corpus.leeds.ac.uk/ruscorpora.html).
+* `relations_english_gen.tuples.xz` – Russian dependency store derived from [RuWac](http://corpus.leeds.ac.uk/ruscorpora.html) (generalized).
+* `relations_spanish.tuples.xz` – Spanish dependency store derived from [Spanish Gigaword](http://catalog.ldc.upenn.edu/LDC2011T12).
 
 ### Contributors
 
